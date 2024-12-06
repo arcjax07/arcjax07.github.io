@@ -21,6 +21,9 @@ twitter_username: arcjax07
 github_username: arcjax07
 minimal_mistakes_skin: dark
 search: true
+
+head_scripts:
+  - /assets/js/posthog.js
   
 # Build settings
 markdown: kramdown
